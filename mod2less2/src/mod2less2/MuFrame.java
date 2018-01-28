@@ -2,9 +2,12 @@ package mod2less2;
 
 import java.awt.Container;
 import java.awt.Font;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class MuFrame extends JFrame {
@@ -28,6 +31,12 @@ public class MuFrame extends JFrame {
 		btn1.setSize(100, 50);
 		btn1.setFont(btnFont);
 		btn1.setLocation(100, 150);
+		btn1.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				JOptionPane.showMessageDialog(null, "Hello");
+			}
+		}); 
 		panel.add(btn1);
 		
 		cont.add(panel);
