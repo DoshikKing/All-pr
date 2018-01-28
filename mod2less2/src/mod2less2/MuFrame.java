@@ -9,35 +9,52 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JTextArea;
 
 public class MuFrame extends JFrame {
+	
+	private JTextArea text;
+	private double p1 = 0, p2 = 0;
+	private int operation = 0;
+	
+	private void btnClick(JButton btn) {
+		
+	}
 	
 	public MuFrame() {
 		JPanel panel = new JPanel();
 		Container cont = getContentPane();
 		panel.setLayout(null);
 		Font btnFont = new Font("serif", 0, 20);
+		Font labelFont = new Font("arial", 1, 30);
+		Font textlFont = new Font("arial", 2, 30);
 		
+		JButton[] buttons = new JButton[17];
+		for (int i = 0; i < 17; i++) {
+			buttons[i] = new JButton();
+			buttons[i].setSize(100, 25);
+			buttons[i].setFont(btnFont);
+			buttons[i].setLocation(30, 50+i*30);
+			buttons[i].addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					btnClick((JButton) e.getSource());
+				}
+			});
+			panel.add(buttons[i]);
+		}
 		
-		JButton btn = new JButton();
-		btn.setText("Sasha");
-		btn.setSize(100, 50);
-		btn.setFont(btnFont);
-		btn.setLocation(100, 100);
-		panel.add(btn);
+		for (int i = 0; i < 10; i++) {
+			buttons[i].setText("" + i);
+		}
 		
-		JButton btn1 = new JButton();
-		btn1.setText("Ilya");
-		btn1.setSize(100, 50);
-		btn1.setFont(btnFont);
-		btn1.setLocation(100, 150);
-		btn1.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Hello");
-			}
-		}); 
-		panel.add(btn1);
+		buttons[10].setText("+");
+		buttons[11].setText("-");
+		buttons[12].setText("*");
+		buttons[13].setText("/");
+		buttons[14].setText("=");
+		buttons[15].setText("C");
+		buttons[16].setText("Exit");
 		
 		cont.add(panel);
 		setBounds(0, 0 , 800, 600);
