@@ -20,7 +20,50 @@ public class MuFrame extends JFrame {
 	private int operation = 0;
 	
 	private void btnClick(JButton btn) {
-		
+		String str = btn.getText();
+		if("Exit".equals(str)) {
+			System.exit(0);
+			
+		} else if ("C".equals(str)) {
+			text.setText("");
+			p1=p2=0;
+			
+		} else if ("=".equals(str)) {
+			p2 = Double.parseDouble(text.getText());
+			if (operation ==1) {
+				text.setText(""+ (p1 +p2));
+			}
+			
+			if (operation ==2) {
+				text.setText(""+ (p1 - p2));
+			}
+			
+			if (operation ==3) {
+				text.setText(""+ (p1 * p2));
+			}
+			
+			if (operation ==4) {
+				text.setText(""+ (p1 / p2));
+			}
+		} else if ("+".equals(str)) {
+			p1 = Double.parseDouble(text.getText());
+			operation = 1;
+			text.setText("");
+		} else if ("-".equals(str)) {
+			p1 = Double.parseDouble(text.getText());
+			operation = 2;
+			text.setText("");
+		} else if ("*".equals(str)) {
+			p1 = Double.parseDouble(text.getText());
+			operation = 3;
+			text.setText("");
+		} else if ("/".equals(str)) {
+			p1 = Double.parseDouble(text.getText());
+			operation = 4;
+			text.setText("");
+		} else {
+		text.setText(text.getText() +str);
+		}	
 	}
 	
 	public MuFrame() {
@@ -31,8 +74,8 @@ public class MuFrame extends JFrame {
 		Font labelFont = new Font("arial", 1, 30);
 		Font textlFont = new Font("arial", 2, 30);
 		
-		JButton[] buttons = new JButton[17];
-		for (int i = 0; i < 17; i++) {
+		JButton[] buttons = new JButton[18];
+		for (int i = 0; i < 18; i++) {
 			buttons[i] = new JButton();
 			buttons[i].setSize(100, 25);
 			buttons[i].setFont(btnFont);
@@ -57,6 +100,8 @@ public class MuFrame extends JFrame {
 		buttons[14].setText("=");
 		buttons[15].setText("C");
 		buttons[16].setText("Exit");
+		buttons[17].setText(".");
+		
 		
 		JLabel label = new JLabel("Result");
 		label.setFont(labelFont);
@@ -72,7 +117,7 @@ public class MuFrame extends JFrame {
 		
 		
 		cont.add(panel);
-		setBounds(0, 0 , 800, 600);
+		setBounds(0, 0 , 800, 800);
 		setTitle("Calculator");
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
