@@ -24,6 +24,26 @@ public class Rectangle extends Shape
         this.filled = filled;
     }
 
+    void setLength(int length)
+    {
+        this.length = length;
+    }
+
+    void setHeigth(int heigth)
+    {
+        this.heigth = heigth;
+    }
+
+    int getLength()
+    {
+        return length;
+    }
+
+    int getHeigth()
+    {
+        return heigth;
+    }
+
     @Override
     String _toString()
     {
