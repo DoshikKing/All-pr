@@ -14,6 +14,6 @@ public class MovablePoint implements Movable
     {
         this.stX += speed;
         this.stY += speed;
-        return "";
+        return "X " + stX + "Y " + stY;
     }
 }

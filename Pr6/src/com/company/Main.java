@@ -10,7 +10,7 @@ public class Main {
         MovablePoint a2=new MovablePoint(0,0);
         MovableRectangle obj2=new MovableRectangle(20,12,"red",true, a1, a2);
 
-        System.out.println(obj2.Movable(15, 15, 0));
+        System.out.println(obj2.Movable(15, 20, 0));
         System.out.println(obj2.checkSpeed());
     }
 }
