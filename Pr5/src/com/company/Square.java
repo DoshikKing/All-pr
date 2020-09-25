@@ -11,7 +11,7 @@ public class Square extends Shape
 
     Square(double side)
     {
-        this.side = 0;
+        this.side = side;
     }
 
     Square(double side, String color, boolean filled)
