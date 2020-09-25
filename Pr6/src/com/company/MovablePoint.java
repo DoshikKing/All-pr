@@ -1,22 +1,19 @@
 package com.company;
 
-public class MovablePoint extends MovableRectangle implements Movable
+public class MovablePoint implements Movable
 {
-    private int position=getStartPosition();
+    private int stX, stY;
 
-    MovablePoint(String color, boolean filled, int speed, int direction, int startX, int startY)
+    MovablePoint(int stX, int stY)
     {
-        super(color, filled, speed, direction, startX, startY);
-        position=startX;
+        this.stX = stX;
+        this.stY = stY;
     }
 
-    int getPosition()
+    public String Movable(int speed, int i, int o)
     {
-        return position;
-    }
-
-    void setPosition(int speed)
-    {
-        position+=speed;
+        this.stX += speed;
+        this.stY += speed;
+        return "";
     }
 }
