@@ -7,7 +7,7 @@ public class Main {
 	Rectangle rectangle = new Rectangle();
 
 	rectangle.setLength(12);
-	rectangle.setLength(13);
+	rectangle.setHeigth(13);
 	rectangle.setColor("red");
 	rectangle.setFilled(true);
 
@@ -20,5 +20,12 @@ public class Main {
     square.setFilled(true);
 
     System.out.println(square._toString());
+
+    Cube cube = new Cube();
+
+    cube.setSide(5);
+    cube._is3D();
+    System.out.println(cube._toString());
+    System.out.println(cube.getArea());
     }
 }
