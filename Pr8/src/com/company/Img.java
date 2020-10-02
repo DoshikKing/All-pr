@@ -37,7 +37,7 @@ public class Img extends JFrame
     public Img()
     {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setSize(500, 500);
+        setSize(600, 500);
         setVisible(true);
         //setBounds(0,0,500,500);
         //setLayout(new FlowLayout());

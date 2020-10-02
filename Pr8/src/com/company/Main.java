@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
     //8.1
-	ShapeCreation shape = new ShapeCreation();
+	//ShapeCreation shape = new ShapeCreation();
 
     //8.2
         /*
@@ -17,6 +17,6 @@ public class Main {
     path = sc.nextLine();
     new ShowImage(path);
 */
-    //Img img = new Img();
+    Img img = new Img();
     }
 }
