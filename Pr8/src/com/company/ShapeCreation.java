@@ -17,7 +17,7 @@ public class ShapeCreation extends JFrame
         Circle circle;
         Square square;
 
-        setSize(width + 15, height + 40);
+        setSize(width + 500, height + 1000);
 
         for (int i = 0; i < cols; i++)
         {
@@ -26,11 +26,11 @@ public class ShapeCreation extends JFrame
                 switch((int)(Math.random()*2))
                 {
                     case 0:
-                        circle = new Circle(i*width/cols,j*height/rows, width/cols - 4,height/rows - 4);
+                        circle = new Circle(2*i*width/cols,2*j*height/rows, width/cols - 4,height/rows - 4);
                         add(circle);
                         break;
                     case 1:
-                        square = new Square(i*width/cols,j*height/rows, width/cols - 4,height/rows - 4);
+                        square = new Square(2*i*width/cols,2*j*height/rows, width/cols - 4,height/rows - 4);
                         add(square);
                         break;
                 }
