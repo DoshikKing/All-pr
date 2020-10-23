@@ -1,6 +1,6 @@
 package com.company;
 
-class Student {
+public class Student {
     private static int counter = 0;
     private int ID;
     private double GPA = -1;
@@ -15,7 +15,7 @@ class Student {
         this.name = name;
     }
 
-    int getID() {
+    public int getID() {
         return ID;
     }
 
@@ -27,7 +27,7 @@ class Student {
         return name;
     }
 
-    Student(int ID, String name, double GPA) {
+    public Student(int ID, String name, double GPA) {
         this.ID = ID;
         setName(name);
         setGPA(GPA);
