@@ -64,8 +64,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/MyCollection.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+15">
+      <change afterPath="$PROJECT_DIR$/src/com/company1/DrunkMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +90,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -109,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603987961607</updated>
     </task>
+    <task id="LOCAL-00001" summary="+15">
+      <created>1603988257718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603988257719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,5 +135,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+15" />
+    <option name="LAST_COMMIT_MESSAGE" value="+15" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">
+      <screen x="0" y="0" width="1366" height="723" />
+    </state>
+    <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1603988335481">
+      <screen x="0" y="0" width="1366" height="723" />
+    </state>
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1603988335481" />
   </component>
 </project>
