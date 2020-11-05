@@ -8,13 +8,17 @@ public class Pr18 {
         Scanner sc = new Scanner(System.in);
         int first = 0, next = 0, MAX = 0;
 
+        System.out.println("insert");
+
         while(first != -1)
         {
+            System.out.println("First: ");
+            first = sc.nextInt();
             if (first == -1)
             {
                 break;
             }
-            first = sc.nextInt();
+            System.out.println("Second: ");
             next = sc.nextInt();
             if(first > next)
             {
@@ -27,9 +31,11 @@ public class Pr18 {
         return MAX;
     }
     public static void main(String[] args) {
-
+        int k;
         Scanner n = new Scanner(System.in);
-        switch (n.nextInt())
+        System.out.println("Введите номер задания:");
+        k = n.nextInt();
+        switch (k)
         {
             case 1:
             {
@@ -55,6 +61,8 @@ public class Pr18 {
                 System.out.println(sequence());
             }
             break;
+            default:
+                System.out.println("ERROR");
         }
 
 
