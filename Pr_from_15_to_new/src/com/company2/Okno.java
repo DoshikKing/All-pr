@@ -52,6 +52,7 @@ public class Okno extends JFrame {
         cont.add(gameField);
         setResizable(false);
         setVisible(true);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 
 }

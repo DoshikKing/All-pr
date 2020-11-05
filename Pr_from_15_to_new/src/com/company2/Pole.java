@@ -29,12 +29,12 @@ public class Pole extends JPanel {
         slognost = slogn;
         presents = new Present[7];
         try {
-            fon = ImageIO.read(new File("C:\\fon.png"));
-            shapka = ImageIO.read(new File("C:\\shapka.png"));
-            endGame = ImageIO.read(new File("C:\\end_game.png"));
-            elka = ImageIO.read(new File("C:\\elka.png"));
+            fon = ImageIO.read(new File("/home/doshikking/JavaProjects/Java/Pr_from_15_to_new/src/com/company2/pics/fon.png"));
+            shapka = ImageIO.read(new File("/home/doshikking/JavaProjects/Java/Pr_from_15_to_new/src/com/company2/pics/shapka.png"));
+            endGame = ImageIO.read(new File("/home/doshikking/JavaProjects/Java/Pr_from_15_to_new/src/com/company2/pics/end_game.png"));
+            elka = ImageIO.read(new File("/home/doshikking/JavaProjects/Java/Pr_from_15_to_new/src/com/company2/pics/elka.png"));
             for (int i = 0; i < 7; i++) {
-                presents[i] = new Present(ImageIO.read(new File("C:\\p" + i + ".png")));
+                presents[i] = new Present(ImageIO.read(new File("/home/doshikking/JavaProjects/Java/Pr_from_15_to_new/src/com/company2/pics/p" + i + ".png")));
             }
         } catch (IOException e1) {
         }

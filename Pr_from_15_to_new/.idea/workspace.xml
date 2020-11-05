@@ -64,9 +64,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+18 ex 3. sequence func in Pr18.java.">
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company2/Pr17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company2/Pr17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company2/Okno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company2/Okno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company2/Pole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company2/Pole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Pr18">
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company2.Game" />
+      <module name="Pr_from_15_to_**" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Pr_from_15_to_**" />
@@ -121,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Game" />
         <item itemvalue="Application.Pr18" />
         <item itemvalue="Application.Main" />
       </list>
@@ -163,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604596586708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+17">
+      <created>1604600938222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604600938222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+17">
+      <created>1604600942958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604600942958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,29 +213,30 @@
     <MESSAGE value="+16" />
     <MESSAGE value="+18" />
     <MESSAGE value="+18 ex 3. sequence func in Pr18.java." />
-    <option name="LAST_COMMIT_MESSAGE" value="+18 ex 3. sequence func in Pr18.java." />
+    <MESSAGE value="+17" />
+    <option name="LAST_COMMIT_MESSAGE" value="+17" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1604596529657">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1604601101135">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1604596529657" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1604596529654">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1604601101135" />
+    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1604601101134">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1604596529654" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1604596529653">
+    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1604601101134" />
+    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1604601101133">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1604596529653" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1604596529656">
+    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1604601101133" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1604601101135">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1604596529656" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1604601101135" />
     <state width="1320" height="212" key="GridCell.Tab.1.bottom" timestamp="1604596513729">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
