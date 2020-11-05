@@ -64,9 +64,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+15">
-      <change afterPath="$PROJECT_DIR$/src/com/company1/DrunkMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company1/Main.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+16">
+      <change afterPath="$PROJECT_DIR$/src/com/company2/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company2/Palim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company2/Pr17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company2/Pr18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1jYjXXuRVLHSR6YzC33TIZT2vIM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603988257719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+16">
+      <created>1603988677273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603988677273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,16 +150,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+15" />
-    <option name="LAST_COMMIT_MESSAGE" value="+15" />
+    <MESSAGE value="+16" />
+    <option name="LAST_COMMIT_MESSAGE" value="+16" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1603988335481">
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1603988690495">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1603988335481" />
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1603988690495" />
   </component>
 </project>
