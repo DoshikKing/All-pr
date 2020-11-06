@@ -14,6 +14,5 @@ public class Game {
             Okno window = new Okno(slogn);
         }
     }
-
 }
 
