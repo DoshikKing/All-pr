@@ -39,6 +39,7 @@ public class Pr18 {
         {
             case 1:
             {
+                System.out.println("Insert num");
                 Scanner sc = new Scanner(System.in);
 
                 Fact primeFactorization = new Fact();
@@ -47,6 +48,7 @@ public class Pr18 {
             break;
             case 2:
             {
+                System.out.println("Insert wrd");
                 Scanner sc = new Scanner(System.in);
 
                 Palim palindrome = new Palim();
