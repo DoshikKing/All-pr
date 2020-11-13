@@ -2,6 +2,7 @@ package com.company3;
 
 public class Pr19 {
     public static void main(String[] args){
+        // For path input
         // Scanner sc = new Scanner(System.in);
         // String path = sc.nextLine();
 

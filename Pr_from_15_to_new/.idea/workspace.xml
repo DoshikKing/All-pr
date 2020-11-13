@@ -64,10 +64,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+18 output added">
-      <change afterPath="$PROJECT_DIR$/src/com/company3/MyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company3/Pr19.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+19 in com.company 3. Files MyFile.java and Pr19.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company3/MyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company3/MyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company3/Pr19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company3/Pr19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604659473615</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+19 in com.company 3. Files MyFile.java and Pr19.java">
+      <created>1605226602433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605226602433</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +242,8 @@
     <MESSAGE value="+18 ex 3. sequence func in Pr18.java." />
     <MESSAGE value="+17" />
     <MESSAGE value="+18 output added" />
-    <option name="LAST_COMMIT_MESSAGE" value="+18 output added" />
+    <MESSAGE value="+19 in com.company 3. Files MyFile.java and Pr19.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="+19 in com.company 3. Files MyFile.java and Pr19.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">

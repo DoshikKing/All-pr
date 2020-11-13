@@ -28,29 +28,11 @@ public class MyFile {
                 line = sc.nextLine();
                 first = true;
             }
-
             fileWriter.flush();
             fileWriter.close();
         }
         catch (IOException ignored){}
     }
-
-//    public void reWrite(String end){
-//        try {
-//            FileWriter fileWriter = new FileWriter(path, false);
-//            String line = "";
-//            Scanner sc = new Scanner(System.in);
-//
-//            line = sc.nextLine();
-//            while (!line.equals(end)) {
-//                fileWriter.write(line);
-//                line = sc.nextLine();
-//            }
-//            fileWriter.flush();
-//            fileWriter.close();
-//        }
-//        catch (IOException ex){}
-//    }
 
     public void output() {
         try {
@@ -65,7 +47,6 @@ public class MyFile {
                 else
                     System.out.print("\"");
             }
-
             fileReader.close();
         }
         catch (IOException ignored){}
