@@ -64,10 +64,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java">
-      <change afterPath="$PROJECT_DIR$/src/com/company5/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company5/Residents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company5/Shop.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+22 base added ExceptionHandler.java, Residents.java and Shop.java">
+      <change afterPath="$PROJECT_DIR$/src/com/company5/Execute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company5/Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company5/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company5/UnsearchedExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +98,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Exep2execute">
+  <component name="RunManager" selected="Application.Execute">
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company5.Execute" />
+      <module name="Pr_from_15_to_**" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exep1execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company4.Exep1execute" />
       <module name="Pr_from_15_to_**" />
@@ -137,19 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company2.Pr18" />
-      <module name="Pr_from_15_to_**" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Pr20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company3.Pr20" />
       <module name="Pr_from_15_to_**" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Execute" />
         <item itemvalue="Application.Exep2execute" />
         <item itemvalue="Application.Exep1execute" />
         <item itemvalue="Application.Pr20" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Pr18" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605810141714</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="+22 base added ExceptionHandler.java, Residents.java and Shop.java">
+      <created>1605811154351</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605811154351</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +328,8 @@
     <MESSAGE value="+20. Files: Pr20.java and MyText.java." />
     <MESSAGE value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt." />
     <MESSAGE value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java" />
+    <MESSAGE value="+22 base added ExceptionHandler.java, Residents.java and Shop.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="+22 base added ExceptionHandler.java, Residents.java and Shop.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605810477790">
@@ -331,22 +340,22 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1605809872117">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1605813541139">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1605809872117" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1605809872116">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1605813541139" />
+    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1605813541138">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1605809872116" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1605809872116">
+    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1605813541138" />
+    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1605813541138">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1605809872116" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1605809872116">
+    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1605813541138" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1605813541139">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1605809872116" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1605813541139" />
     <state width="1320" height="212" key="GridCell.Tab.1.bottom" timestamp="1604596513729">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
@@ -363,9 +372,9 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state width="1320" height="212" key="GridCell.Tab.1.right/0.0.1366.723@0.0.1366.723" timestamp="1604596513728" />
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605810155674">
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605811173453">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1605810155674" />
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1605811173453" />
   </component>
 </project>
