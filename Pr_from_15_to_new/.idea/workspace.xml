@@ -65,11 +65,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+22 base added ExceptionHandler.java, Residents.java and Shop.java">
-      <change afterPath="$PROJECT_DIR$/src/com/company5/Execute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company5/Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company5/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company5/UnsearchedExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company5/Execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company5/Execute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605811154351</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="+22 base added ExceptionHandler.java, Residents.java and Shop.java">
+      <created>1605813583694</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813583694</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,22 +344,22 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1605813541139">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1605813829694">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1605813541139" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1605813541138">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1605813829694" />
+    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1605813829693">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1605813541138" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1605813541138">
+    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1605813829693" />
+    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1605813829693">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1605813541138" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1605813541139">
+    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1605813829693" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1605813829694">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1605813541139" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1605813829694" />
     <state width="1320" height="212" key="GridCell.Tab.1.bottom" timestamp="1604596513729">
       <screen x="0" y="0" width="1366" height="723" />
     </state>

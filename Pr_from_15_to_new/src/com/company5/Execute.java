@@ -79,8 +79,8 @@ public class Execute extends JFrame {
         Rectangle right=new Rectangle(260,100,120,20);
 
         back.setBounds(0,0,100,20);
-        textArea.setBounds(145,150,300,300);
-        textInput.setBounds(300,150,150,20);
+        textArea.setBounds(75,300,300,300);
+        textInput.setBounds(145,150,150,20);
 
         textInfo.setEditable(false);
         textArea.setVisible(false);
