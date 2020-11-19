@@ -64,10 +64,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt.">
-      <change afterPath="$PROJECT_DIR$/src/com/company4/Answer2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company4/Exep2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company4/Exep2execute.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java">
+      <change afterPath="$PROJECT_DIR$/src/com/company5/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company5/Residents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company5/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -280,7 +280,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605809605277</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt.">
+      <created>1605810099503</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605810099503</updated>
+    </task>
+    <task id="LOCAL-00016" summary="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java">
+      <created>1605810141714</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605810141714</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,9 +319,14 @@
     <MESSAGE value="+19 in com.company 3. Files MyFile.java and Pr19.java" />
     <MESSAGE value="+20. Files: Pr20.java and MyText.java." />
     <MESSAGE value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt." />
+    <MESSAGE value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="+21. Files: Exep1.java and Exep1execute.java. and Answer.txt. + Answer2.txt and Exep2.java and Exep2execute.java" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605810477790">
+      <screen x="0" y="0" width="1366" height="723" />
+    </state>
+    <state x="452" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.723@0.0.1366.723" timestamp="1605810477790" />
     <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
@@ -344,9 +363,9 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state width="1320" height="212" key="GridCell.Tab.1.right/0.0.1366.723@0.0.1366.723" timestamp="1604596513728" />
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605227097091">
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605810155674">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1605227097091" />
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1605810155674" />
   </component>
 </project>
