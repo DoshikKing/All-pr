@@ -64,9 +64,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+19 in com.company 3. Files MyFile.java and Pr19.java">
-      <change afterPath="$PROJECT_DIR$/src/com/company3/MyText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company3/Pr20.java" afterDir="false" />
+    <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+20. Files: Pr20.java and MyText.java.">
+      <change afterPath="$PROJECT_DIR$/src/com/company4/Answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company4/Exep1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company4/Exep1execute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +97,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Pr20">
+  <component name="RunManager" selected="Application.Exep1execute">
+    <configuration name="Exep1execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company4.Exep1execute" />
+      <module name="Pr_from_15_to_**" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company2.Game" />
       <module name="Pr_from_15_to_**" />
@@ -148,6 +162,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exep1execute" />
         <item itemvalue="Application.Pr20" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.Pr18" />
@@ -241,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605226678814</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="+20. Files: Pr20.java and MyText.java.">
+      <created>1605227087183</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605227087183</updated>
+    </task>
+    <task id="LOCAL-00013" summary="+20. Files: Pr20.java and MyText.java.">
+      <created>1605227093441</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605227093441</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,29 +293,30 @@
     <MESSAGE value="+17" />
     <MESSAGE value="+18 output added" />
     <MESSAGE value="+19 in com.company 3. Files MyFile.java and Pr19.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="+19 in com.company 3. Files MyFile.java and Pr19.java" />
+    <MESSAGE value="+20. Files: Pr20.java and MyText.java." />
+    <option name="LAST_COMMIT_MESSAGE" value="+20. Files: Pr20.java and MyText.java." />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="262" key="Github.ShareDialog" timestamp="1603988243651">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state x="539" y="262" key="Github.ShareDialog/0.0.1366.723@0.0.1366.723" timestamp="1603988243651" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1604659401620">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1605227107131">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1604659401620" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1604659401619">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.0.1366.723@0.0.1366.723" timestamp="1605227107131" />
+    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1605227107131">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1604659401619" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1604659401617">
+    <state width="1320" height="170" key="GridCell.Tab.0.center/0.0.1366.723@0.0.1366.723" timestamp="1605227107131" />
+    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1605227107131">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1604659401617" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1604659401619">
+    <state width="1320" height="170" key="GridCell.Tab.0.left/0.0.1366.723@0.0.1366.723" timestamp="1605227107131" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1605227107131">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1604659401619" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right/0.0.1366.723@0.0.1366.723" timestamp="1605227107131" />
     <state width="1320" height="212" key="GridCell.Tab.1.bottom" timestamp="1604596513729">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
@@ -303,9 +333,9 @@
       <screen x="0" y="0" width="1366" height="723" />
     </state>
     <state width="1320" height="212" key="GridCell.Tab.1.right/0.0.1366.723@0.0.1366.723" timestamp="1604596513728" />
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1604659478836">
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605227097091">
       <screen x="0" y="0" width="1366" height="723" />
     </state>
-    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1604659478836" />
+    <state x="283" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.723@0.0.1366.723" timestamp="1605227097091" />
   </component>
 </project>
