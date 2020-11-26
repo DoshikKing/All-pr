@@ -11,3 +11,7 @@ MyArrayMidified
 MyDirectory
 Tester4
 NoSuchFileException
+5я часть:
+Tester5
+Pair
+Solution
