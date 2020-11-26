@@ -65,14 +65,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b22fef-b095-4f07-8be4-141e2be17731" name="Default Changelist" comment="+22 base added ExceptionHandler.java, Residents.java and Shop.java + 2 пункт про студентов">
-      <change afterPath="$PROJECT_DIR$/src/com/company3/textout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/INFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/MyArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/MyArrayMidified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/MyDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/NoSuchFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/Tester1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/Tester3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/Tester4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company6/Transfer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/MyText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/MyText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/Pr20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/Pr20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pr_from_15_to_**/com/company3/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company3/MyText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company3/MyText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company3/Pr20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company3/Pr20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company3/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company3/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +86,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -357,6 +362,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="+22 base added ExceptionHandler.java, Residents.java and Shop.java + 2 пункт про студентов" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="450" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606399827272">
+      <screen x="0" y="0" width="1366" height="723" />
+    </state>
+    <state x="450" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.723@0.0.1366.723" timestamp="1606399827272" />
     <state x="452" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605810477790">
       <screen x="0" y="0" width="1366" height="723" />
     </state>

@@ -1,0 +1,13 @@
+1я часть:
+Tester
+Transfer
+2я часть:
+Tester1
+MyArray
+3я часть:
+Tester3
+MyArrayMidified
+4я часть:
+MyDirectory
+Tester4
+NoSuchFileException
